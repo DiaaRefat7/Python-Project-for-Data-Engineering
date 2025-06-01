@@ -1,0 +1,5 @@
+2025-Jun-01-12:17:12,etl started
+2025-Jun-01-12:17:12,extract started
+2025-Jun-01-12:17:12,transform started
+2025-Jun-01-12:17:12,load started
+2025-Jun-01-12:17:12,etl ended
